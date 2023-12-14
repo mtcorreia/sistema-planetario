@@ -4,7 +4,9 @@
 
 ## Demonstração:
 
-https://github.com/mtcorreia/Sistema-Planetario/assets/114550828/b79510f3-3258-4ecb-8e71-a5cb6c625d76
+
+https://github.com/mtcorreia/sistema-planetario/assets/114550828/f7aa7cf3-55ba-4bae-af9b-650a809c85e7
+
 
 ## Status do Projeto
 - Concluído.
